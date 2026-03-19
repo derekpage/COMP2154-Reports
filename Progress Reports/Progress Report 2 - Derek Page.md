@@ -65,8 +65,9 @@ The team has continued to make good progress towards the completion of the Lost 
 
 ### Test Case 1 - Successful Lost Item Creation
 
-| Test Case ID | TC-ITEM-001 |
+| | |
 |----|----|
+| Test Case ID | TC-ITEM-001 |
 | Test Case Name | Successful Lost Item Creation |
 | Requirement Reference | FR-4 |
 | Priority | High |
@@ -84,8 +85,9 @@ Expected Results:
 
 ### Test Case 2 - Item Not Found (Update Route)
 
-| Test Case ID | TC-ITEM-002 |
+| | |
 |----|----|
+| Test Case ID | TC-ITEM-002 |
 | Test Case Name | Item Not Found (Update Route) |
 | Requirement Reference | FR-5 |
 | Priority | High |
